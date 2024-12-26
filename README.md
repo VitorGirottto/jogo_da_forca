@@ -27,19 +27,19 @@ Este projeto é uma implementação simples do jogo **Forca** usando PHP. O obje
 1. Clone o repositório para sua máquina:
 
     ```bash
-    git clone https://github.com/seu-usuario/jogo-da-forca.git
+    git clone https://github.com/VitorGirottto/jogo_da_forca.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd jogo-da-forca
+    cd jogo_da_forca
     ```
 
 3. Execute o script PHP:
 
     ```bash
-    php jogo.php
+    php jogo_da_forca.php
     ```
 
     **Nota**: Certifique-se de ter o PHP instalado em sua máquina. Caso não tenha, você pode [baixar o PHP aqui](https://www.php.net/downloads.php).
